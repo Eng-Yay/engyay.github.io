@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Eng. Yaya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Contact Eng. Yaya</h1>
+</header>
+
+<section>
+  <h2>Get In Touch</h2>
+  <p>If you have any questions or need assistance with any of our services, feel free to reach out!</p>
+  <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p>Phone: +254 700 000 000</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Eng. Yaya. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
